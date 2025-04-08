@@ -12,4 +12,4 @@ Just download the files or clone the repo and open `index.html` in your browser.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by K R Revathi
