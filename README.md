@@ -1,4 +1,4 @@
-# YouTube Clown 🎭
+# YouTube Clone 🎭
 
 A fun little clone of the YouTube interface for learning HTML, CSS, and JS.
 
